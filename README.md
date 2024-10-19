@@ -1,4 +1,4 @@
-# SwiftUICharts
+# SwiftUIWidgetCharts
 
 Swift package for displaying charts effortlessly.
 
@@ -42,7 +42,7 @@ In Xcode go to `File -> Swift Packages -> Add Package Dependency` and paste in t
 
 ### Usage:
 
-import the package in the file you would like to use it: `import SwiftUICharts`
+import the package in the file you would like to use it: `import SwiftUIWidgetCharts`
 
 You can display a Chart by adding a chart view to your parent view: 
 
